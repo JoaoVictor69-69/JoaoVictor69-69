@@ -3,7 +3,7 @@
 
 - 🔭 eu estou trabalhando em: **um gerenciador de tarefas via python**
 
-- 📫 meu contato pessoal **joaovictorsiqueiraoliveira9@gmail.com**
+- 📫 meu contato pessoal **joaovictorsiqueiraoliveira9@gmail.com e linkedin https://www.linkedin.com/in/jo%C3%A3o-victor-siqueira-oliveira-9b260132b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
